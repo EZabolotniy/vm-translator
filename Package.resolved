@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "files",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/EZabolotniy/files.git",
+      "state" : {
+        "revision" : "5481fa789189f16c3c09695f1d0ca6f6774a60f4",
+        "version" : "0.1.0"
+      }
+    },
+    {
+      "identity" : "string-utils",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/EZabolotniy/string-utils",
+      "state" : {
+        "revision" : "749b62725c9992daf4d12a59cc085cf594408f2f",
+        "version" : "0.1.1"
+      }
+    }
+  ],
+  "version" : 2
+}
